@@ -23,3 +23,4 @@ class SitePars:
 def Main():
    s= SitePars()
    s.GetData()
+Main()
